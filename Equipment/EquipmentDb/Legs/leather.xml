@@ -157,6 +157,19 @@
 		</source>
 	</item>
 
+	<item id="22701" phase="6">
+		<info name="Polar Leggings" type="LEATHER" slot="LEGS" unique="no" req_lvl="60" item_lvl="80" quality="EPIC" boe="no" icon="Inv_pants_06.png"/>
+		<stats>
+			<stat type="ARMOR" value="205"/>
+			<stat type="AGILITY" value="15"/>
+			<stat type="STAMINA" value="28"/>
+			<stat type="FROST_RESISTANCE" value="40"/>
+		</stats>
+		<source>
+			Quest reward. Requires completing Echoes of War and Omarion's Handbook in Naxxramas trash fights first.
+		</source>
+	</item>
+
 	<item id="23071" phase="6">
 		<info name="Leggings of Apocalypse" type="LEATHER" slot="LEGS" unique="no" req_lvl="60" item_lvl="83" quality="EPIC" boe="no" icon="Inv_pants_leather_09.png"/>
 		<stats>

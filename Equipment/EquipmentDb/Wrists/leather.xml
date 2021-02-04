@@ -189,6 +189,19 @@
         </source>
     </wrist>
 
+	<item id="22663" phase="6">
+		<info name="Polar Bracers" type="LEATHER" slot="WRIST" unique="no" req_lvl="60" item_lvl="80" quality="EPIC" boe="yes" icon="Inv_bracer_07.png"/>
+		<stats>
+			<stat type="ARMOR" value="102"/>
+			<stat type="AGILITY" value="12"/>
+			<stat type="STAMINA" value="20"/>
+			<stat type="FROST_RESISTANCE" value="20"/>
+		</stats>
+		<source>
+			Crafted by Leatherworkers.
+		</source>
+	</item>
+
     <wrist id="22483" phase="6">
 		<info name="Bonescythe Bracers" type="LEATHER" slot="WRIST" unique="no" req_lvl="60" item_lvl="88" quality="EPIC" boe="no" icon="Inv_bracer_15.png"/>
 		<class_restriction class="ROGUE"/>

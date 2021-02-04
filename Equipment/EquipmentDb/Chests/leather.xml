@@ -232,6 +232,19 @@
 		</source>
 	</item>
 
+	<item id="22661" phase="6">
+		<info name="Polar Tunic" type="LEATHER" slot="CHEST" unique="no" req_lvl="60" item_lvl="80" quality="EPIC" boe="yes" icon="Inv_chest_cloth_08.png"/>
+		<stats>
+			<stat type="ARMOR" value="234"/>
+			<stat type="AGILITY" value="18"/>
+			<stat type="STAMINA" value="26"/>
+			<stat type="FROST_RESISTANCE" value="40"/>
+		</stats>
+		<source>
+			Crafted by Leatherworkers.
+		</source>
+	</item>
+
 	<item id="23226" phase="6">
 		<info name="Ghoul Skin Tunic" type="LEATHER" slot="CHEST" unique="no" req_lvl="60" item_lvl="83" quality="EPIC" boe="no" icon="Inv_chest_leather_02.png"/>
 		<stats>

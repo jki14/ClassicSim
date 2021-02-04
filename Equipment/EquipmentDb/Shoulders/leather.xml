@@ -208,6 +208,18 @@
 		</source>
 	</item>
 
+	<item id="22941" phase="6">
+		<info name="Polar Shoulder Pads" type="LEATHER" slot="SHOULDERS" unique="no" req_lvl="60" item_lvl="83" quality="EPIC" boe="no" icon="Inv_shoulder_07.png"/>
+		<stats>
+			<stat type="ARMOR" value="181"/>
+			<stat type="STAMINA" value="25"/>
+			<stat type="FROST_RESISTANCE" value="33"/>
+		</stats>
+		<source>
+			Drops from Grand Widow Faerlina in Naxxramas.
+		</source>
+	</item>
+
 	<item id="22479" phase="6">
 		<info name="Bonescythe Pauldrons" type="LEATHER" slot="SHOULDERS" unique="no" req_lvl="60" item_lvl="86" quality="EPIC" boe="no" icon="Inv_shoulder_29.png"/>
 		<class_restriction class="ROGUE"/>
